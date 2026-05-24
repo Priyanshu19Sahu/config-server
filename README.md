@@ -1,22 +1,14 @@
 # Spring Cloud Config Server
 
-This project demonstrates centralized configuration management using Spring Cloud Config Server.
+This project demonstrates centralized configuration management using Spring Boot and Spring Cloud Config Server.
 
-## Technologies Used
+## Technologies
 - Java
 - Spring Boot
 - Spring Cloud Config
-- Maven
+- Gradle
 
 ## Features
-- Centralized configuration management
-- GitHub-based config handling
+- Centralized configuration
 - Microservices support
-
-## Run
-1. Clone repository
-2. Open project
-3. Run application
-
-## URL
-http://localhost:8888/{application-name}/default
+- Git-based config management
